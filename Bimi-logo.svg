@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<svg width="500" height="500" viewBox="0 0 500 500" preserveAspectRatio="xMidYMid meet" version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" zoomAndPan="disable" viewBox="0 0 375 374.999991" height="500" preserveAspectRatio="xMidYMid meet" version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg">
   <title>bimi-svg-tiny-12-ps</title>
-  <rect x="0" y="0" width="500" height="500" fill="#ffffff"/>
-  <g transform="translate(-12.5,-12.5) scale(1.4)">
-    <rect x="0" y="0" width="375" height="375" fill="#ffffff"/>
-    <path fill="#1e842e" d="M 235.234375 178.542969 L 265.421875 116.378906 L 258.25 113.15625 L 279.417969 100.53125 L 286.375 123.886719 L 279.316406 121.105469 L 244.632812 191.570312 L 232.550781 186.367188 Z"/>
-    <path fill="#1e842e" d="M 209.511719 155.140625 L 227.84375 191.605469 L 244.617188 191.605469 L 220.015625 141.953125 Z"/>
-    <path fill="#1e842e" d="M 203.207031 141.953125 L 158.222656 232.851562 L 174.738281 232.941406 L 220.019531 141.953125 Z"/>
-    <path fill="#1e842e" d="M 139.652344 196.4375 L 157.988281 232.902344 L 174.765625 232.902344 L 150.160156 183.25 Z"/>
-    <path fill="#1e842e" d="M 133.359375 183.25 L 88.375 274.144531 L 104.886719 274.238281 L 150.167969 183.25 Z"/>
+  <defs/>
+  <rect x="-37.5" width="450" fill="#ffffff" y="-37.499999" height="449.999989" fill-opacity="1"/>
+  <rect x="-37.5" width="450" fill="#ffffff" y="-37.499999" height="449.999989" fill-opacity="1"/>
+  <g>
+    <path fill="#1e842e" d="M 232.394531 179.195312 L 260.714844 120.875 L 253.988281 117.851562 L 273.847656 106.011719 L 280.371094 127.921875 L 273.753906 125.3125 L 241.210938 191.417969 L 229.878906 186.535156 Z M 232.394531 179.195312 " fill-opacity="1" fill-rule="nonzero"/>
   </g>
+  <g>
+    <path fill="#1e842e" d="M 136.820312 183.613281 L 94.617188 268.886719 L 110.109375 268.972656 L 152.589844 183.613281 Z M 136.820312 183.613281 " fill-opacity="1" fill-rule="nonzero"/>
+  </g>
+  <path fill="#1e842e" d="M 208.261719 157.242188 L 225.460938 191.453125 L 241.199219 191.453125 L 218.117188 144.871094 Z M 208.261719 157.242188 " fill-opacity="1" fill-rule="nonzero"/>
+  <path fill="#1e842e" d="M 202.347656 144.871094 L 160.144531 230.144531 L 175.640625 230.230469 L 218.121094 144.871094 Z M 202.347656 144.871094 " fill-opacity="1" fill-rule="nonzero"/>
+  <path fill="#1e842e" d="M 142.726562 195.984375 L 159.925781 230.195312 L 175.664062 230.195312 L 152.582031 183.613281 Z M 142.726562 195.984375 " fill-opacity="1" fill-rule="nonzero"/>
 </svg>

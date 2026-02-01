@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<svg width="500" zoomAndPan="disable" viewBox="0 0 375 374.999991" height="500" preserveAspectRatio="xMidYMid meet" version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" zoomAndPan="disable" viewBox="0 0 375 375" height="500" preserveAspectRatio="xMidYMid meet" version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg">
   <title>bimi-svg-tiny-12-ps</title>
   <defs/>
-  <rect x="-37.5" width="450" fill="#ffffff" y="-37.499999" height="449.999989" fill-opacity="1"/>
-  <rect x="-37.5" width="450" fill="#ffffff" y="-37.499999" height="449.999989" fill-opacity="1"/>
+  <rect x="-37.5" width="450" fill="#ffffff" y="-37.5" height="450" fill-opacity="1"/>
+  <rect x="-37.5" width="450" fill="#ffffff" y="-37.5" height="450" fill-opacity="1"/>
   <g>
     <path fill="#1e842e" d="M 227.710938 180.0625 L 253.074219 127.832031 L 247.046875 125.125 L 264.832031 114.519531 L 270.679688 134.140625 L 264.75 131.804688 L 235.605469 191.007812 L 225.457031 186.636719 Z M 227.710938 180.0625 " fill-opacity="1" fill-rule="nonzero"/>
   </g>
